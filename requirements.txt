@@ -1,0 +1,4 @@
+numpy
+ripser
+scikit-learn
+matplotlib
